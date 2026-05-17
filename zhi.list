@@ -1,7 +1,7 @@
 # 代理补充列表
 DST-PORT,8081
 # 域名后缀匹配
-# DOMAIN-SUFFIX,win88.eu.org
+DOMAIN-SUFFIX,win88.eu.org
 # 域名关键字匹配
 # DOMAIN-KEYWORD,1e100
 # DOMAIN-KEYWORD,nicept
